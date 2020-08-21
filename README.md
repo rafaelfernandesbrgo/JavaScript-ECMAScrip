@@ -1,4 +1,4 @@
-#  JavaScript / ECMAScrip 
+# UpdateNotes-JavaScript/ECMAScrip
  Some new ways to code
 
 This is a summary of some new features in JS / ECMAScript, comparing them with previous ways.
